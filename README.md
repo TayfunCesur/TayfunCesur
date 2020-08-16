@@ -9,7 +9,7 @@
 - 🔭  I’m currently working on a [Unreal Engine](https://www.unrealengine.com/en-US/) just for fun!
 - 🌱  I’m currently learning C++ 
 - 👯  I’m looking to collaborate or share an Open Source Project
-- 🥅  2020 Goals: Create my own game
+- 🥅  2020 Goals: Creating my own game
 - ⚡  Fun fact: I am huge fan of Pink Floyd!
   
 ### Spotify Playing 🎧

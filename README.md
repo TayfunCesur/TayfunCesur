@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-tayfuncesur35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tayfuncesur35@gmail.com)](mailto:tayfuncesur35@gmail.com)
 
 ## I'm an Android Engineer, Traveller and Gymer!
+<img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭  I’m currently working on a [Unreal Engine](https://www.unrealengine.com/en-US/) just for fun!
 - 🌱  I’m currently learning C++ 
@@ -11,8 +12,6 @@
 - 🥅  2020 Goals: Create my own game
 - ⚡  Fun fact: I am huge fan of Pink Floyd!
   
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="TayfunCesur Spotify Playing" width="350" />](https://open.spotify.com/user/tyfn35)
 
@@ -21,7 +20,7 @@
 [<img align="left" alt="TayfunCesur | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" />](https://www.linkedin.com/in/tayfun-cesur-353958157/)
 [<img align="left" alt="TayfunCesur | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" />](https://twitter.com/CesurTayfun35)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.favpng.com/9/25/24/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg" />](https://www.instagram.com/cesurtayfunn/)
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.shields.io/badge/TAYFUNCESUR.COM-Old-lightgrey" />](http://tayfuncesur.com)
+[<img align="left" alt="tayfuncesur.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://tayfuncesur.com)
 
 <br />
 

@@ -1,5 +1,5 @@
 ## Hi there, I'm Tayfun - a lover of Android 👋 <br />
-### I'm an Android Engineer, Traveller and Gymer 💪!
+### I'm an Android Engineer, Traveller and Gymer 💪
 <img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 -  🔭 &nbsp;&nbsp;I’m currently working on a [Unreal Engine](https://www.unrealengine.com/en-US/) just for fun!

@@ -2,11 +2,11 @@
 ### I'm an Android Engineer, Traveller and Gymer 💪!
 <img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭  I’m currently working on a [Unreal Engine](https://www.unrealengine.com/en-US/) just for fun!
-- 🌱  I’m currently learning C++ 
-- 👯  I’m looking to collaborate or share an Open Source Project
-- 🥅  2020 Goals: Creating my own game
-- ⚡  Fun fact: I am huge fan of Pink Floyd!
+-  🔭 &nbsp;&nbsp;I’m currently working on a [Unreal Engine](https://www.unrealengine.com/en-US/) just for fun!
+-  🌱  &nbsp;&nbsp;I’m currently learning C++ 
+-  👯  &nbsp;&nbsp;I’m looking to collaborate or share an Open Source Project
+-  🥅  &nbsp;&nbsp;2020 Goals: Creating my own game
+-  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of Pink Floyd!
   
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="TayfunCesur Spotify Playing" width="350" />](https://open.spotify.com/user/tyfn35)

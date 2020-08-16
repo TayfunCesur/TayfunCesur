@@ -1,9 +1,5 @@
-### Hi there, I'm Tayfun - a lover of Android 👋
-
-[![Medium Badge](https://img.shields.io/badge/-@TCesur-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@TCesur/)](https://medium.com/@TCesur/)
-[![Gmail Badge](https://img.shields.io/badge/-tayfuncesur35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tayfuncesur35@gmail.com)](mailto:tayfuncesur35@gmail.com)
-
-## I'm an Android Engineer, Traveller and Gymer!
+## Hi there, I'm Tayfun - a lover of Android 👋 <br />
+### I'm an Android Engineer, Traveller and Gymer 💪!
 <img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭  I’m currently working on a [Unreal Engine](https://www.unrealengine.com/en-US/) just for fun!
@@ -21,7 +17,8 @@
 [<img align="left" alt="TayfunCesur | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" />](https://twitter.com/CesurTayfun35)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.favpng.com/9/25/24/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg" />](https://www.instagram.com/cesurtayfunn/)
 [<img align="left" alt="tayfuncesur.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://tayfuncesur.com)
-
+[![Medium Badge](https://img.shields.io/badge/-@TCesur-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@TCesur/)](https://medium.com/@TCesur/)
+[![Gmail Badge](https://img.shields.io/badge/-tayfuncesur35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tayfuncesur35@gmail.com)](mailto:tayfuncesur35@gmail.com)
 <br />
 
 ### :computer: My Tech Stack:
@@ -42,8 +39,3 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/topics/terminal)
 
-<br />
-<br />
-
----
-[![TayfunCesur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TayfunCesur&show_icons=true)](https://github.com/TayfunCesur)

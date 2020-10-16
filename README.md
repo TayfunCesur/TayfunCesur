@@ -8,9 +8,6 @@
 -  🥅  &nbsp;&nbsp;2020 Goals: Creating my own game
 -  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of Pink Floyd!
   
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="TayfunCesur Spotify Playing" width="350" />](https://open.spotify.com/user/tyfn35)
-
 ### 🤝🏻 Connect with me:
 
 [<img align="left" alt="TayfunCesur | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" />](https://www.linkedin.com/in/tayfun-cesur-353958157/)

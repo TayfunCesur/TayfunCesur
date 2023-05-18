@@ -8,5 +8,5 @@
 -  🥅  &nbsp;&nbsp;2023 Goals: Going advanced on solidity/yul
 -  ⚡  &nbsp;&nbsp;Fun fact: I am huge fan of Pink Floyd!
   
-### 🤝🏻 Connect with me: [tayfuncesur.com](tayfuncesur.com)
+### 🤝🏻 Connect with me: [tayfuncesur.com](https://tayfuncesur.com)
 
